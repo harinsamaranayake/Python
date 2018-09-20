@@ -1,1 +1,2 @@
-print ("Harin")
+import sys
+print (sys.argv)
